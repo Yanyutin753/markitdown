@@ -166,3 +166,6 @@ cython_debug/
 src/.DS_Store
 .DS_Store
 .cursorrules
+.omc/project-memory.json
+.omc/sessions/cdbe5240-a837-4e0b-9100-9a6ced3eb9c5.json
+.omc/state/idle-notif-cooldown.json
